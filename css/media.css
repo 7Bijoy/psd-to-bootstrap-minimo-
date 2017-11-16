@@ -1,0 +1,54 @@
+@media (max-width:767px) {
+    footer {
+        background-color: #f0f0f0;
+        min-height: 100px;
+        font-family: 'Playfair Display', serif;
+    }
+
+    .privacy-list li {
+        font-size: 13px;
+        padding-top: 45px;
+    }
+    .follow-list li {
+        font-size: 13px;
+        padding-top: 45px;
+    }
+    .follow-list li a {
+        padding-top: 45px;
+    }
+    .send_btn {
+    background: transparent;
+    border: none;
+    position: absolute;
+    right: 65px;
+}
+
+.navbar-toggle {
+    position: relative;
+    float: right;
+    padding: 8px 12px;
+    margin-top: -5px;
+    margin-right: 15px;
+    margin-bottom: 8px;
+    background-color: transparent;
+    background-image: none;
+    border: 2px solid transparent;
+    border-radius: 16px;}
+    
+    #field_style {
+    border: none;
+    border-bottom: 2px solid #000000;
+    background: transparent;
+    width: 70%;
+        height: 30px;}
+
+}
+
+@media (min-width:768px) and (max-width: 991px) {}
+
+@media (min-width:992px) and (max-width: 1199px) {}
+
+@media (min-width: 1200px) {}
+
+
+}
